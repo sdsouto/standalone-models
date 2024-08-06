@@ -5,6 +5,6 @@ So, I got a little obsessed with machine learning. Like, really obsessed. This r
 
 <p align="left">
   <img src="images/Cute-Penguin-icon.png" width="50">
-  Let's waddle through our favorite penguin data with K-means clustering!  Do penguins of the same species exhibit different physical characteristics based on sex?
+  Let's waddle through our favorite penguin data with K-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb).
 </p>
 
