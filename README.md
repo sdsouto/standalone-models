@@ -10,6 +10,15 @@ Jet-Setting to Customer Satisfaction
 From Gate to Great: Predicting Passenger Satisfaction
 ___
 <p align="left">
+  <img src="images/Microsoft-Fluentui-Emoji-Flat-Tulip-Flat.512.png" width="50">
+</p>
+Shrinking a million colors into a bouquet of K-means clusters.
+
+
+
+___
+
+<p align="left">
   <img src="images/Thehoth-Seo-Seo-penguin.256.png" width="50">
 </p>
 
