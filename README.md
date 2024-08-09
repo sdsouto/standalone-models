@@ -1,13 +1,14 @@
 #  One-off modeling exercises, just for fun
 
-So, I got a little obsessed with machine learning. Like, really obsessed. This repo is a dumping ground for all the crazy experiments I’ve tried. From predicting the future (kind of) to building robots (okay, not really), it’s all here. Buckle up, it’s about to get nerdy!
+So, I got a little obsessed with machine learning. *Like, really obsessed.* This repo is a dumping ground for all the crazy experiments I’ve tried. From predicting the future (kind of) to building robots (okay, not really), it’s all here. Buckle up, it’s about to get nerdy!
 ___
 <p align="left">
   <img src="images/Pelfusion-Folded-Flat-Air-Plane.512.png" width="50">
 </p>
+Ok, these aren't one-off models I was playing around with, they're actually a part of my portfolio, but whatever...
 
-Jet-Setting to Customer Satisfaction
-From Gate to Great: Predicting Passenger Satisfaction
+- Jet-Setting to Customer Satisfaction
+- From Gate to Great: Predicting Passenger Satisfaction
 ___
 <p align="left">
   <img src="images/Microsoft-Fluentui-Emoji-Flat-Tulip-Flat.512.png" width="50">
