@@ -12,7 +12,7 @@ ___
 <p align="left">
   <img src="images/Microsoft-Fluentui-Emoji-Flat-Tulip-Flat.512.png" width="50">
 </p>
-Shrinking a million colors into a bouquet of K-means clusters.
+Classification: Shrinking a million colors into a bouquet of K-means clusters.
 
 
 
