@@ -1,7 +1,13 @@
 #  One-off modeling exercises, just for fun
 
 So, I got a little obsessed with machine learning. Like, really obsessed. This repo is a dumping ground for all the crazy experiments I’ve tried. From predicting the future (kind of) to building robots (okay, not really), it’s all here. Buckle up, it’s about to get nerdy!
+___
+<p align="left">
+  <img src="images/Pelfusion-Folded-Flat-Air-Plane.512.png" width="50">
+</p>
 
+Jet-Setting to Customer Satisfaction
+From Gate to Great: Predicting Passenger Satisfaction
 ___
 <p align="left">
   <img src="images/Thehoth-Seo-Seo-penguin.256.png" width="50">
@@ -10,7 +16,7 @@ ___
   Let's waddle through our favorite penguin data with K-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb)
 ___
 <p align="left">
-  <img src="images/Icondesigner.net-Hyperion-Smart-Folder.256.png" width="50">
+  <img src="images/Elegantthemes-Beautiful-Flat-Gear.512.png" width="50">
 </p>
 
 Now, for something a bit more serious, let's shift gears to my [portfolio](https://github.com/sdsouto/portfolio) work.  Here are some projects I've completed:
