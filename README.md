@@ -11,6 +11,8 @@ Ok, these aren't one-off models I was playing around with, they're actually a pa
 
 - Jet-Setting to Customer Satisfaction
 - From Gate to Great: Predicting Passenger Satisfaction
+
+
 ___
 <picture>
   <p align="left">
@@ -20,6 +22,20 @@ ___
 
 Can a rookie's stats predict their NBA longevity? Naive Bayes finds out
 
+
+
+
+___
+<picture>
+  <p align="left">
+    <img src="images/Thehoth-Seo-Seo-penguin.256.png" width="50">
+  </p>
+</picture>
+
+  Let's waddle through our favorite penguin data with k-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb)
+
+
+  
 ___
 <picture>
   <p align="left">
@@ -30,14 +46,9 @@ ___
 Shrinking millions of colors into a bouquet of k-means clusters.
 
 [color compression of a tulip image using k-means clustering](https://github.com/sdsouto/standalone-models/blob/main/k-means_color_compression_tulips_no3d.ipynb)
-___
-<picture>
-  <p align="left">
-    <img src="images/Thehoth-Seo-Seo-penguin.256.png" width="50">
-  </p>
-</picture>
 
-  Let's waddle through our favorite penguin data with k-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb)
+
+
 
 ___
 <picture>
