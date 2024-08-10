@@ -11,7 +11,7 @@ Ok, these aren't one-off models I was playing around with, they're actually a pa
 - From Gate to Great: Predicting Passenger Satisfaction
 ___
 <p align="left">
-  <img src="images/Microsoft-Fluentui-Emoji-3d-Basketball-3d.512.png" width="50">
+  <img src="images/Microsoft-Fluentui-Emoji-Flat-Basketball-Flat.512.png" width="50">
 </p>
 Can a rookie's stats predict their NBA longevity? Naive Bayes finds out
 
@@ -30,7 +30,16 @@ ___
 </p>
 
   Let's waddle through our favorite penguin data with k-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb)
+
 ___
+
+<p align="left">
+  <img src="images/Webalys-Kameleon.pics-Money-Graph.512.png" width="50">
+</p>
+Keeping customers hooked: Using data to predict and prevent customer churn.
+
+___
+
 <p align="left">
   <img src="images/Elegantthemes-Beautiful-Flat-One-Color-Gear.128.png" width="50">
 </p>
