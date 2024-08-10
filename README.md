@@ -11,15 +11,18 @@ Ok, these aren't one-off models I was playing around with, they're actually a pa
 - From Gate to Great: Predicting Passenger Satisfaction
 ___
 <p align="left">
+  <img src="images/Microsoft-Fluentui-Emoji-3d-Basketball-3d.512.png" width="50">
+</p>
+Can a rookie's stats predict their NBA longevity? Naive Bayes finds out
+
+___
+<p align="left">
   <img src="images/Microsoft-Fluentui-Emoji-Flat-Tulip-Flat.512.png" width="50">
 </p>
 
 Shrinking millions of colors into a bouquet of k-means clusters.
 
 [color compression of a tulip image using k-means clustering](https://github.com/sdsouto/standalone-models/blob/main/k-means_color_compression_tulips_no3d.ipynb)
-
-
-
 ___
 
 <p align="left">
