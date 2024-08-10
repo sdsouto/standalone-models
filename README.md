@@ -16,7 +16,7 @@ ___
 
 Shrinking millions of colors into a bouquet of k-means clusters.
 
-[color compression using k-means](https://github.com/sdsouto/standalone-models/blob/main/k-means_color_compression_tulips_no3d.ipynb)
+[color compression of a tulip image using k-means clustering](https://github.com/sdsouto/standalone-models/blob/main/k-means_color_compression_tulips_no3d.ipynb)
 
 
 
@@ -26,7 +26,7 @@ ___
   <img src="images/Thehoth-Seo-Seo-penguin.256.png" width="50">
 </p>
 
-  Let's waddle through our favorite penguin data with K-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb)
+  Let's waddle through our favorite penguin data with k-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb)
 ___
 <p align="left">
   <img src="images/Elegantthemes-Beautiful-Flat-One-Color-Gear.128.png" width="50">
