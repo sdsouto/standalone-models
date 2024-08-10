@@ -5,7 +5,7 @@ ___
 <p align="left">
   <img src="images/Pelfusion-Folded-Flat-Air-Plane.512.png" width="50">
 </p>
-Ok, these aren't one-off models I was playing around with, they're actually a part of my portfolio, but whatever...
+Ok, these aren't one-off models I was playing around with, they're actually a part of my portfolio, but whatever ;)
 
 - Jet-Setting to Customer Satisfaction
 - From Gate to Great: Predicting Passenger Satisfaction
