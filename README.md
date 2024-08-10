@@ -5,25 +5,31 @@ ___
 <p align="left">
   <img src="images/Pelfusion-Folded-Flat-Air-Plane.512.png" width="50">
 </p>
-Ok, these aren't one-off models I was playing around with, they're actually a part of my portfolio, but whatever...
+Ok, these aren't one-off models I was playing around with, they're actually a part of my portfolio, but whatever ;)
 
 - Jet-Setting to Customer Satisfaction
 - From Gate to Great: Predicting Passenger Satisfaction
 ___
 <p align="left">
+  <img src="images/Microsoft-Fluentui-Emoji-3d-Basketball-3d.512.png" width="50">
+</p>
+Can a rookie's stats predict their NBA longevity? Naive Bayes finds out
+
+___
+<p align="left">
   <img src="images/Microsoft-Fluentui-Emoji-Flat-Tulip-Flat.512.png" width="50">
 </p>
-Classification: Shrinking a million colors into a bouquet of K-means clusters.
 
+Shrinking millions of colors into a bouquet of k-means clusters.
 
-
+[color compression of a tulip image using k-means clustering](https://github.com/sdsouto/standalone-models/blob/main/k-means_color_compression_tulips_no3d.ipynb)
 ___
 
 <p align="left">
   <img src="images/Thehoth-Seo-Seo-penguin.256.png" width="50">
 </p>
 
-  Let's waddle through our favorite penguin data with K-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb)
+  Let's waddle through our favorite penguin data with k-means clustering!  [Do penguins of the same species exhibit different physical characteristics based on sex?](https://github.com/sdsouto/standalone-models/blob/main/K-means_clustering_penguins.ipynb)
 ___
 <p align="left">
   <img src="images/Elegantthemes-Beautiful-Flat-One-Color-Gear.128.png" width="50">
