@@ -13,7 +13,10 @@ ___
 <p align="left">
   <img src="images/Microsoft-Fluentui-Emoji-Flat-Tulip-Flat.512.png" width="50">
 </p>
-Classification: Shrinking a million colors into a bouquet of K-means clusters.
+
+Shrinking millions of colors into a bouquet of k-means clusters.
+
+[color compression using k-means](https://github.com/sdsouto/standalone-models/blob/main/k-means_color_compression_tulips_no3d.ipynb)
 
 
 
