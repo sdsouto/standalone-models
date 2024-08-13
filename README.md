@@ -7,6 +7,9 @@ ___
     <img src="images/Pelfusion-Folded-Flat-Air-Plane.512.png" width="50">
   </p>
 </picture>
+
+*Coming Soon*
+
 Ok, these aren't one-off models I was playing around with, they're actually a part of my portfolio, but whatever ;)
 
 - Jet-Setting to Customer Satisfaction
@@ -20,7 +23,7 @@ ___
   </p>
 </picture> 
 
-Can a rookie's stats predict their NBA longevity? Naive Bayes finds out
+Can a rookie's stats predict their NBA longevity? [Naive Bayes](https://github.com/sdsouto/standalone-models/blob/main/nb_nba.ipynb) finds out
 
 
 
@@ -56,6 +59,8 @@ ___
     <img src="images/Webalys-Kameleon.pics-Money-Graph.512.png" width="50">
   </p>
 </picture>
+
+*Coming Soon*
 
 Keeping customers hooked: Using data to predict and prevent customer churn.
 
