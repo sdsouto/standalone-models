@@ -12,7 +12,7 @@ ___
 
 Ok, these aren't one-off models I was playing around with, they're actually a part of my portfolio, but whatever ;)
 
-- Jet-Setting to Customer Satisfaction: [A Logistic Regression Approach](https://github.com/sdsouto/airline-customer-satisfaction/blob/main/airline_logistic_regression.ipynb)
+- Jet-Setting to Customer Satisfaction: [A Logistic Regression Approach](https://github.com/sdsouto/airline-customer-satisfaction/blob/main/airline_1_logistic_regression.ipynb)
 - From Gate to Great: Predicting Passenger Satisfaction
 
 
