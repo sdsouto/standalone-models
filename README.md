@@ -8,12 +8,10 @@ ___
   </p>
 </picture>
 
-*Coming Soon*
-
-Ok, these aren't one-off models I was playing around with, they're actually a part of my portfolio, but whatever ;)
-
+These aren't just random models I whipped up on a whim. They're actually part of a bigger plan that I haven't quite executed yet ;).  
+*Stay tuned for the full Airlines Customer Satisfaction project portfolio that's in the works!*
 - Jet-Setting to Customer Satisfaction: [A Logistic Regression Approach](https://github.com/sdsouto/airline-customer-satisfaction/blob/main/airline_1_logistic_regression.ipynb)
-- From Gate to Great: Predicting Passenger Satisfaction
+- From Gate to Great: [Predicting Passenger Satisfaction Using Decision Trees](https://github.com/sdsouto/airline-customer-satisfaction/blob/main/airline_2_decision_tree.ipynb)
 
 
 ___
